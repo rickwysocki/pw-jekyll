@@ -22,7 +22,7 @@ title: English 231 - Sample Jekyll Site
 email: a-fake-email@notreal.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is a basic Jekyll install to help 231 students understand the power of GitHub and Markdown for publishing professional documents.
-baseurl: "/""
+baseurl: "/"
 url: "http://USERNAME.github.io/pw-jekyll" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fake-username
 github_username:  rickwysocki
