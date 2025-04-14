@@ -4,11 +4,11 @@
 
 ## Introduction
 
-This is a website built with [Jekyll](https://jekyllrb.com/), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used in combination with GitHub and Markdown to web-based documents online. You can see the live site [here](https://rickwysocki.github.io/pw-jekyll/).
+This is a website built with [Jekyll](https://jekyllrb.com/), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used in combination with GitHub and Markdown to publish web-based documents online. You can see the live site [here](https://rickwysocki.github.io/pw-jekyll/).
 
 Jekyll is a common tool among technical writers due to its (relative) ease of use, extensibility, and writing-oriented features.
 
-As we saw last week, GitHub and its associated project-management features can be used not just for software but also documentation projects. This activity will ask us to use these features to collaborative publish documentation on the major concepts we've been discussing this semester.
+As we saw last week, GitHub and its associated project-management features can be used not just for software but also documentation projects. This activity will ask us to use these features to collaboratively publish documentation on the major concepts we've been discussing this semester.
 
 **Our goal will be to publish a series of reference pages that communicate key ideas from the course.**
 
