@@ -1,10 +1,10 @@
 # English 231: Jekyll
 
-*This is a page for professional writing students to explore [Jekyll](https://duckduckgo.com), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used with GitHub to publish documentation.*
+*This is a page for professional writing students to explore [Jekyll](https://jekyllrb.com/), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used with GitHub to publish documentation.*
 
 ## Introduction
 
-This is a website built with [Jekyll](https://duckduckgo.com), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used in combination with GitHub and Markdown to web-based documents online. You can see the live site [here](https://rickwysocki.github.io/pw-jekyll/).
+This is a website built with [Jekyll](https://jekyllrb.com/), a Markdown-based [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) that can be used in combination with GitHub and Markdown to web-based documents online. You can see the live site [here](https://rickwysocki.github.io/pw-jekyll/).
 
 Jekyll is a common tool among technical writers due to its (relative) ease of use, extensibility, and writing-oriented features.
 
