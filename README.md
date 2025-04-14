@@ -28,6 +28,6 @@ Each topic page should meet the following criteria:
 - Be [topic-oriented](https://en.wikipedia.org/wiki/Topic-based_authoring).
 - Include two paragraphs of text.
 - Offer three links where users can find more information.
-- Display at least one representative image.
+- Display at least one representative image. Your image must include alt text.
 
 Remember to check the [Markdown syntax](https://www.markdownguide.org/basic-syntax/) documentation for formatting questions.
