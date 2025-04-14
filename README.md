@@ -30,4 +30,6 @@ Each topic page should meet the following criteria:
 - Offer three links where users can find more information.
 - Display at least one representative image. Your image must include alt text.
 
+Finally, you should add a brief entry to the table on the glossary page. Your definition should be only one sentence, and the term should link to your topic page.
+
 Remember to check the [Markdown syntax](https://www.markdownguide.org/basic-syntax/) documentation for formatting questions.
