@@ -17,7 +17,7 @@ Data visualization helps readers easily understand large data sets. Visualizatio
 
 This is a strong example of using a line graph to clearly convey different data values related to the article's topic (in this case, the Soybean market):
 
-![Line Graph Example Using Soybean Market Prices](/assets/images/fig1-soybean-february-11-2022-crop.jpeg "Line Graph Example Using Soybean Market Prices")
+![Line Graph Example Using Soybean Market Prices](/assets/images/fig1-soybean-february-11-2022-crop.jpeg)
 
 <h2>More Information</h2>
 You can find more information about how to use data visualizations at the links below:
