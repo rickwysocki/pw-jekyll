@@ -1,7 +1,7 @@
 ---
 layout: page
 title: File Managemnt Conventions
-permalink: /about/
+permalink: /files/
 ---
 
 # Effective File Managment 
