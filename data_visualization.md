@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Visualization Techniques
-permalink: /data_visualization_techniques/
+permalink: /data-visualization-techniques/
 ---
 
 <h1>Data Visualization Techniques</h1>
