@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genre's in Professional Writing
-permalink: /about/
+permalink: /genre/
 ---
 
 There are many different professional writing genres. In this course, we have covered the following:
