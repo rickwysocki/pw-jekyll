@@ -1,6 +1,6 @@
 ---
 layout: page
-title: File Managemnt Conventions
+title: File Management Conventions
 permalink: /files/
 ---
 
