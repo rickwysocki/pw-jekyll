@@ -10,6 +10,9 @@ When creating an effective file management system, you must be consistant. Decid
 Avoid using spaces or special characters and opt for capitilization, hyphens, or underscores. 
 [More Information](https://datamanagement.hms.harvard.edu/plan-design/file-naming-conventions)
 
+![image](https://github.com/user-attachments/assets/4223a737-3463-47ad-a717-2416f4c89948)
+
+
 ## Example of No naming convention:
 - book brainstorm
 - notes for maria
