@@ -11,7 +11,7 @@ There are many different professional writing genres. In this course, we have co
 4. Formal Reports
 5. Bad & Good News Letters
 
-!(/assets/images/Genres Image.jpg)
+!(/assets/images/Genres Image.jpg)[Person typing on Macbook]
   
 # Similarities Across Genres
 All of these genres require you to maintain a professional tone. When writing across these genres, you want to maintain the 7C's (See more in the 7C's section). 
